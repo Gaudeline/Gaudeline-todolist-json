@@ -1,0 +1,14 @@
+[
+    {
+        "tache": "Faire un chifoumi avec un manchot",
+        "fait": true
+    },
+    {
+        "tache": "Faire un triathlon avec un cul de jatte",
+        "fait": true
+    },
+    {
+        "tache": "Crier enfin mon amour pour a voisine sourde",
+        "fait": false
+    }
+]
